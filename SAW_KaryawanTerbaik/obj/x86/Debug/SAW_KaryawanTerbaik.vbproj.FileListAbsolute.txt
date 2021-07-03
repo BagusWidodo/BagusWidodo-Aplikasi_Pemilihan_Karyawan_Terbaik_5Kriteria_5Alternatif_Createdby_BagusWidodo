@@ -1,0 +1,14 @@
+D:\VB NET\SAW_KaryawanTerbaik\SAW_KaryawanTerbaik\bin\Debug\SAW_KaryawanTerbaik.exe
+D:\VB NET\SAW_KaryawanTerbaik\SAW_KaryawanTerbaik\bin\Debug\SAW_KaryawanTerbaik.pdb
+D:\VB NET\SAW_KaryawanTerbaik\SAW_KaryawanTerbaik\bin\Debug\SAW_KaryawanTerbaik.xml
+D:\VB NET\SAW_KaryawanTerbaik\SAW_KaryawanTerbaik\obj\x86\Debug\SAW_KaryawanTerbaik.Alternatif.resources
+D:\VB NET\SAW_KaryawanTerbaik\SAW_KaryawanTerbaik\obj\x86\Debug\SAW_KaryawanTerbaik.Bobot_Preferensi.resources
+D:\VB NET\SAW_KaryawanTerbaik\SAW_KaryawanTerbaik\obj\x86\Debug\SAW_KaryawanTerbaik.Kriteria.resources
+D:\VB NET\SAW_KaryawanTerbaik\SAW_KaryawanTerbaik\obj\x86\Debug\SAW_KaryawanTerbaik.Resources.resources
+D:\VB NET\SAW_KaryawanTerbaik\SAW_KaryawanTerbaik\obj\x86\Debug\SAW_KaryawanTerbaik.vbproj.GenerateResource.Cache
+D:\VB NET\SAW_KaryawanTerbaik\SAW_KaryawanTerbaik\obj\x86\Debug\SAW_KaryawanTerbaik.exe
+D:\VB NET\SAW_KaryawanTerbaik\SAW_KaryawanTerbaik\obj\x86\Debug\SAW_KaryawanTerbaik.xml
+D:\VB NET\SAW_KaryawanTerbaik\SAW_KaryawanTerbaik\obj\x86\Debug\SAW_KaryawanTerbaik.pdb
+D:\VB NET\SAW_KaryawanTerbaik\SAW_KaryawanTerbaik\obj\x86\Debug\SAW_KaryawanTerbaik.Kriteria_Alternatif.resources
+D:\VB NET\SAW_KaryawanTerbaik\SAW_KaryawanTerbaik\obj\x86\Debug\SAW_KaryawanTerbaik.Judul_Penilaian.resources
+D:\VB NET\SAW_KaryawanTerbaik\SAW_KaryawanTerbaik\obj\x86\Debug\SAW_KaryawanTerbaik.Menu_Utama.resources
